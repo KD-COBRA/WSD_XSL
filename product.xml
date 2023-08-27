@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="product.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<products>
+    <product pid="2000">
+        <id>1</id>
+        <name>Limited Edition Quantum Smartphone</name>
+        <price>999.99</price>
+        <description>This cutting-edge smartphone uses quantum technology for unparalleled performance.</description>
+    </product>
+    <product pid="2001">
+        <id>2</id>
+        <name>StellarBook Pro X1</name>
+        <price>999.99</price>
+        <description>The StellarBook Pro X1 is a high-end laptop designed for power users and creators.</description>
+    </product>
+    <product pid="2500">
+        <id>3</id>
+        <name>AuraPods Pro</name>
+        <price>349.95</price>
+        <description>Experience immersive audio with the AuraPods Pro, the ultimate wireless earbuds.</description>
+    </product>
+    <product pid="2300">
+        <id>4</id>
+        <name>GalaxyTime Smartwatch</name>
+        <price>799.99</price>
+        <description>The GalaxyTime Smartwatch combines style and functionality for the modern world.</description>
+    </product>
+</products>
